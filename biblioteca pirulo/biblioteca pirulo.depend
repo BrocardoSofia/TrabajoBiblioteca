@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1653869246 source:c:\users\usuario pc\downloads\biblioteca pirulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1654004483 source:c:\users\usuario pc\downloads\biblioteca pirulo - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"string.h"
+
+1654042667 source:d:\progra 2022\biblioteca pirulo - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"string.h"
+
